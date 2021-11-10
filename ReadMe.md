@@ -1,0 +1,1 @@
+Demo project using Spring security, JWT, MapStruct, JUnit5
